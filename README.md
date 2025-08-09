@@ -52,7 +52,7 @@ Bubble effects in action when a key is pressed.
 The grand finale screen declaring your keyboard clean.
 
 #video
-![video](https://www.loom.com/share/73477bea3b0540f2860bf60e0bd6b1b3?sid=fcf9641d-4f2c-42a1-9574-2d3fb16b2279)
+![video](https://github.com/Ashnashahul/keyboardspaa/blob/main/Screen-Recording.mp4)
 
 
 ## Team Contributions
