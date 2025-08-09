@@ -42,13 +42,13 @@ Open in your preferred browser
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](https://drive.google.com/file/d/1jWsibnMi_UBch_tmQun7kdOsc6EG7k81/view?usp=drive_link)
+![Screenshot1](https://github.com/Ashnashahul/keyboardspaa/blob/main/1.jpeg))
 Main interface showing the virtual keyboard ready for cleaning.
 
-![Screenshot2](https://drive.google.com/file/d/1beveFf0ZWd6TNHTgFLJDM8S7EXRqPksD/view?usp=drive_link)
+![Screenshot2](https://github.com/Ashnashahul/keyboardspaa/blob/main/2.jpeg)
 Bubble effects in action when a key is pressed.
 
-![Screenshot3](https://drive.google.com/file/d/1iP0igJgCV4Yg34tJcyYGlRvHSX5r-2uM/view?usp=drive_link)
+![Screenshot3](https://github.com/Ashnashahul/keyboardspaa/blob/main/3.jpeg)
 The grand finale screen declaring your keyboard clean.
 
 #video
